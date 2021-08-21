@@ -55,7 +55,7 @@ http://117.169.120.138:8080/live/fhzixun/.m3u8
 #EXTINF:-1 tvg-id="FengHuangWeiShiDianYingTai.hk" tvg-name="鳳凰衛視電影台" tvg-country="HK" tvg-language="Chinese" tvg-logo="https://p1.ifengimg.com/a/2018_43/45a9d426b4ae58c.jpg" group-title="",鳳凰衛視電影台 [Offline]
 rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 #EXTINF:-1 tvg-id="FengHuangWeiShiDianYingTai.hk" tvg-name="無綫新聞台-1" tvg-country="HK" tvg-language="Chinese" tvg-logo="" group-title="",無綫新聞台-1
-http://livetv.dnsfor.me:80/channel.10.m3u8
+http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 #EXTINF:-1 tvg-id="FengHuangWeiShiDianYingTai.hk" tvg-name="無綫財經·資訊台-1" tvg-country="HK" tvg-language="Chinese" tvg-logo="" group-title="",無綫財經·資訊台-1
 http://livetv.dnsfor.me:80/channel.11.m3u8
 #EXTINF:-1 tvg-id="FengHuangWeiShiDianYingTai.hk" tvg-name="澳視衛視" tvg-country="HK" tvg-language="Chinese" tvg-logo="" group-title="",澳視衛視
