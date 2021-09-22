@@ -32,7 +32,7 @@ http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1
 #EXTINF:-1 tvg-id="FengHuangZiXun.hk" tvg-name="鳳凰香港HD" tvg-country="HK" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="News",鳳凰香港HD
 http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 #EXTINF:-1 tvg-id="FengHuangZiXun.hk" tvg-name="鳳凰资讯HD" tvg-country="HK" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png" group-title="News",鳳凰资讯HD
-http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 #EXTINF:-1 tvg-id="FengHuangWeiShiDianYingTai.hk" tvg-name="無綫新聞台-1" tvg-country="HK" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" group-title="",無綫新聞台-1
 http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 #EXTINF:-1 tvg-id="FengHuangWeiShiDianYingTai.hk" tvg-name="無綫財經·資訊台-1" tvg-country="HK" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-finance.jpg" group-title="",無綫財經·資訊台-1
