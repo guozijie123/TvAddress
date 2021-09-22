@@ -7,24 +7,14 @@ http://50.7.161.82:8277/streams/d/celestial_pye/playlist.m3u8
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
 #EXTINF:-1 tvg-id="RTHKGangTaiDianShi32.hk" tvg-name="RTHK (港台電視32)" tvg-country="HK" tvg-language="" tvg-logo="" group-title="",RTHK (港台電視32) (480p)
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
-#EXTINF:-1 tvg-id="StarSports.hk" tvg-name="Star Sports" tvg-country="SAS" tvg-language="English" tvg-logo="https://photo.sofun.tw/2013/11/STAR-SPORTS-LOGO.jpg" group-title="Sports",Star Sports [Offline]
-rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 #EXTINF:-1 tvg-id="Thrill.hk" tvg-name="Thrill" tvg-country="HK" tvg-language="" tvg-logo="" group-title="",Thrill [Geo-blocked]
 http://45.126.83.51/qwr9ew/s/s34/02.m3u8
-#EXTINF:-1 tvg-id="Thrill.hk" tvg-name="Thrill" tvg-country="SAS" tvg-language="English" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" group-title="Movies",Thrill (480p) [Geo-blocked]
-http://45.126.83.51/qwr9ew/s/s34/index.m3u8
-#EXTINF:-1 tvg-id="TVBJade.hk" tvg-name="TVB Jade" tvg-country="HK" tvg-language="Chinese" tvg-logo="" group-title="",TVB Jade [Offline]
-http://ubaio.chaoniu1995.top:6796/ub/cr/crtv.php?id=30
-#EXTINF:-1 tvg-id="TVBXingHe.hk" tvg-name="TVB Xing He" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/17/TVB_Xing_He_logo_2017.png/220px-TVB_Xing_He_logo_2017.png" group-title="",TVB Xing He 星河 (720p)
+#EXTINF:-1 tvg-id="TVBXingHe.hk" tvg-name="TVB星河" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/17/TVB_Xing_He_logo_2017.png/220px-TVB_Xing_He_logo_2017.png" group-title="",TVB星河
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #EXTINF:-1 tvg-id="ViuTV.hk" tvg-name="ViuTV" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" group-title="",ViuTV (1080p)
 http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 #EXTINF:-1 tvg-id="ViuTVsix.hk" tvg-name="ViuTVsix" tvg-country="HK" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1280px-ViuTVsix-logo.svg.png" group-title="",ViuTVsix
 http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
-#EXTINF:-1 tvg-id="YaLuWeiShi.hk" tvg-name="亞旅衛視" tvg-country="HK" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/1wbOhJV.jpg" group-title="Travel",亞旅衛視 [Offline]
-http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
-#EXTINF:-1 tvg-id="XingKongWeiShi.hk" tvg-name="星空衛視" tvg-country="HK" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8d/Xing_Kong_Wei_Shi.jpg/250px-Xing_Kong_Wei_Shi.jpg" group-title="General",星空衛視 [Offline]
-rtmp://58.200.131.2:1935/livetv/startv
 #EXTINF:-1 tvg-id="GangTaiDianShi31.hk" tvg-name="港台電視31" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="General",港台電視31 (720p)
 https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 #EXTINF:-1 tvg-id="GangTaiDianShi32.hk" tvg-name="港台電視32" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/1200px-RTHK_TV_32.svg.png" group-title="News",港台電視32 (480p)
@@ -36,15 +26,11 @@ https://cdn.hkdtmb.com/hls/82/index.m3u8
 #EXTINF:-1 tvg-id="YaoCaiCaiJingTai.hk" tvg-name="耀才財經台" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://i.imgur.com/xliVoIt.jpg?1" group-title="Shop",耀才財經台 (576p)
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 tvg-id="XiangGangKaiDianShiHKSTVHKS.hk" tvg-name="香港开电视 / HKSTV-HKS" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/ed/HK_open_tv_logo.jpg" group-title="",香港开电视 / HKSTV-HKS (720p)
-http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1 tvg-id="XiangGangWeiShi.hk" tvg-name="香港衛視" tvg-country="HK" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/wnQPn2d.jpg" group-title="",香港衛視 [Offline]
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 tvg-id="FengHuangWeiShiZhongWenTai.hk" tvg-name="鳳凰衛視中文台" tvg-country="HK" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://pbs.twimg.com/profile_images/1246604721462239232/QCKNvVux_400x400.jpg" group-title="",鳳凰衛視中文台
-http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
-#EXTINF:-1 tvg-id="FengHuangZiXun.hk" tvg-name="鳳凰資訊" tvg-country="HK" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png" group-title="News",鳳凰衛視資訊台HD
-http://117.169.120.138:8080/live/fhzixun/.m3u8
-#EXTINF:-1 tvg-id="FengHuangWeiShiDianYingTai.hk" tvg-name="鳳凰衛視電影台" tvg-country="HK" tvg-language="Chinese" tvg-logo="https://p1.ifengimg.com/a/2018_43/45a9d426b4ae58c.jpg" group-title="",鳳凰衛視電影台 [Offline]
-rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1080P
+#EXTINF:-1 tvg-id="FengHuangZiXun.hk" tvg-name="鳳凰香港HD" tvg-country="HK" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png" group-title="News",鳳凰香港HD
+http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
 #EXTINF:-1 tvg-id="FengHuangWeiShiDianYingTai.hk" tvg-name="無綫新聞台-1" tvg-country="HK" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" group-title="",無綫新聞台-1
 http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 #EXTINF:-1 tvg-id="FengHuangWeiShiDianYingTai.hk" tvg-name="無綫財經·資訊台-1" tvg-country="HK" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-finance.jpg" group-title="",無綫財經·資訊台-1
@@ -54,7 +40,7 @@ https://www.navchina.cf/IPTV/icable.php?id=37
 #EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="有線財經台" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/iCABLENewsChannelHD.png" group-title="",有線財經台
 https://www.navchina.cf/IPTV/icable.php?id=38
 #EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="Now新聞台" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/nownews.png" group-title="",Now新聞台
-http://livetv.dnsfor.me:80/channel.4.m3u8
+https://www.navchina.cf/IPTV/now.php?id=332
 #EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="Now財經台" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Now_Business_News_logo.svg/1200px-Now_Business_News_logo.svg.png" group-title="",Now財經台
 https://www.navchina.cf/IPTV/now.php?id=333
 #EXTINF:-1 tvg-id="FengHuangWeiShiDianYingTai.hk" tvg-name="澳視衛視" tvg-country="HK" tvg-language="Chinese" tvg-logo="" group-title="",澳視衛視
