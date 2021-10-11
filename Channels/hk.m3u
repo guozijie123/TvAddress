@@ -20,7 +20,7 @@ https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 #EXTINF:-1 tvg-id="GangTaiDianShi32.hk" tvg-name="港台電視32" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/1200px-RTHK_TV_32.svg.png" group-title="News",港台電視32 (480p)
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 #EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="翡翠台（81）" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="",翡翠台（81） (1080p)
-http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 #EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="翡翠台J2" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="" group-title="",翡翠台J2
 https://cdn.hkdtmb.com/hls/82/index.m3u8
 #EXTINF:-1 tvg-id="YaoCaiCaiJingTai.hk" tvg-name="耀才財經台" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://i.imgur.com/xliVoIt.jpg?1" group-title="Shop",耀才財經台 (576p)
@@ -38,11 +38,11 @@ http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 #EXTINF:-1 tvg-id="FengHuangWeiShiDianYingTai.hk" tvg-name="無綫財經·資訊台-1" tvg-country="HK" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-finance.jpg" group-title="",無綫財經·資訊台-1
 http://livetv.dnsfor.me:80/channel.11.m3u8
 #EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="有線新聞台" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/iCABLENewsChannelHD.png" group-title="",有線新聞台
-https://www.navchina.cf/IPTV/icable.php?id=37
+https://api.leonardpark.dev/live/icable/109
 #EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="有線財經台" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/iCABLENewsChannelHD.png" group-title="",有線財經台
-https://www.navchina.cf/IPTV/icable.php?id=38
+https://api.leonardpark.dev/live/icable/108
 #EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="Now新聞台" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/nownews.png" group-title="",Now新聞台
-https://www.navchina.cf/IPTV/now.php?id=332
+http://livetv.dnsfor.me:80/channel.4.m3u8
 #EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="Now財經台" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Now_Business_News_logo.svg/1200px-Now_Business_News_logo.svg.png" group-title="",Now財經台
 https://www.navchina.cf/IPTV/now.php?id=333
 #EXTINF:-1 tvg-id="FengHuangWeiShiDianYingTai.hk" tvg-name="澳視衛視" tvg-country="HK" tvg-language="Chinese" tvg-logo="" group-title="",澳視衛視
